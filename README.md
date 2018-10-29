@@ -3,7 +3,7 @@
 
 ##Commands
 
-gpg - encryption and signing tool, main program for the GnuPG system 
+gpg - encryption and signing tool, main program for the GnuPrivate Guard software 
 
 -c : encrypt with a symmetric cypher
 
