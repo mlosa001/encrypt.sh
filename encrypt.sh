@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "encrypt a file"
 read file;
