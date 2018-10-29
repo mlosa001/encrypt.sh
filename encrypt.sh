@@ -3,7 +3,7 @@
 echo "encrypt a file"
 read file;
 
-gpg -c $file
+gpg -e  $file
 
 echo "your file is now encrypted" 
 
